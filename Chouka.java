@@ -247,4 +247,4 @@ public class Chouka {
         Chouka User3 = new Chouka(500,325000,345678,"3c");
         denglu(User1,User2,User3);
     }
-}//
+}
